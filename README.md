@@ -129,9 +129,3 @@ I'm full time developer. Please contact me at amureke71@gmail.com
 
 <img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-
-
-
-[here]: https://amureke.github.io/portfolio/
-[resume]: https://github.com/amureke/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
-
