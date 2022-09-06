@@ -28,9 +28,9 @@ Main Skills:
 
 I'm full time developer. Please contact me at amureke71@gmail.com
 
-[![Gmail](https://img.shields.io/badge/-amureke@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=yellow)](amureke@gmail.com)
-[![Telegram](https://img.shields.io/badge/-@mRcoin1220-c14438?style=flat-square&logo=Telegram&logoColor=red)](https://t.me/mRcoin1220)
-[![Skype](https://img.shields.io/badge/-@mRcoin1220-c14438?style=flat-square&logo=Skype&logoColor=pink)](live:.cid.2d0eaf630ad3c45)
+[![Gmail](https://img.shields.io/badge/-amureke71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=yellow)](amureke71@gmail.com)
+[![Telegram](https://img.shields.io/badge/-@anydevbest-c14438?style=flat-square&logo=Telegram&logoColor=red)](https://t.me/anydevbest)
+[![Skype](https://img.shields.io/badge/-@anydevbest-c14438?style=flat-square&logo=Skype&logoColor=pink)](live:.cid.2d0eaf630ad3c45)
 
 ## ⚡️ A Few Quick Facts
 
