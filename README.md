@@ -29,7 +29,7 @@ Main Skills:
 I'm full time developer.
 
 [![Telegram](https://img.shields.io/badge/-@anydevbest-c14438?style=flat-square&logo=Telegram&logoColor=red)](https://t.me/anydevbest)
-[![Skype](https://img.shields.io/badge/-@anydevbest-c14438?style=flat-square&logo=Skype&logoColor=pink)](live:.cid.2d0eaf630ad3c45)
+[![Skype](https://img.shields.io/badge/-@anydevbest-c14438?style=flat-square&logo=Skype&logoColor=pink)](live:.cid.588439c6887bd701)
 
 ## ⚡️ A Few Quick Facts
 
