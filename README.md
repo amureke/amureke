@@ -26,9 +26,8 @@ Main Skills:
 - MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
 - AWS, DigitalOcean, Heroku 
 
-I'm full time developer. Please contact me at amureke71@gmail.com
+I'm full time developer.
 
-[![Gmail](https://img.shields.io/badge/-amureke71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=yellow)](amureke71@gmail.com)
 [![Telegram](https://img.shields.io/badge/-@anydevbest-c14438?style=flat-square&logo=Telegram&logoColor=red)](https://t.me/anydevbest)
 [![Skype](https://img.shields.io/badge/-@anydevbest-c14438?style=flat-square&logo=Skype&logoColor=pink)](live:.cid.2d0eaf630ad3c45)
 
